@@ -1,14 +1,1 @@
-# SFDX  App
-
-## Dev, Build and Test
-
-
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
-
+# This ain't gonna be pretty for awhiiiiiile
