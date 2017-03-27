@@ -1,0 +1,10 @@
+{
+  "Company": "cdegour Company",
+  "Country": "US",
+  "LastName": "cdegour",
+  "Email": "cdegour@example.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
