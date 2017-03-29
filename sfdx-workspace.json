@@ -1,7 +1,7 @@
 {
   "PackageDirectories": [
     {
-      "Path": "force-app-oye-hoye",
+      "Path": "force-app",
       "Default": true
     }
   ],
