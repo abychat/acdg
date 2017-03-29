@@ -1,7 +1,7 @@
 {
   "PackageDirectories": [
     {
-      "Path": "force-app",
+      "Path": "force-app-sure",
       "Default": true
     }
   ],
